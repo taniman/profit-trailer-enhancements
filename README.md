@@ -1,4 +1,4 @@
-# The PT enhancements game  
+# The PT enhancement games  
 May the best enhancement win!  
 
 We know you want PT to be the best.  
@@ -6,9 +6,9 @@ Here's your chance to see your feature request implemented.
 
 # Rules
 
-1. Realistic Feature Requests
-2. 2500+  thumbs up
-3. Top 3 best rated
+1. Create a Realistic Feature Requests on this project
+2. Only Feature Requests with 2500+ thumbs up Qualify
+3. Top 3 best rated Requests will be implemented
 
 ### 100% guaranteed implementation in the new features release
 
