@@ -10,7 +10,7 @@ Here's your chance to see your feature request implemented.
 2. Only 1 feature can be requested per issue, anything else will be closed
 3. Only Feature Requests with 1337+ thumbs up Qualify
 
-###Top 3 Best Liked Requests = 100% guaranteed implementation in the new features release
+### Top 3 Best Liked Requests = 100% guaranteed implementation in the new features release
 
 So make sure you search before creating a new issue, or you will be splintering your chances  
 
