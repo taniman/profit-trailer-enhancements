@@ -1,5 +1,4 @@
-# profit-trailer-enhancements
-The PT enhancements game  
+# The PT enhancements game  
 May the best enhancement win!  
 
 We know you want PT to be the best.  
