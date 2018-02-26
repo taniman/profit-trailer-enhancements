@@ -19,6 +19,6 @@ PT Version Numbering starting with version 2.0
 
 Ex: V2.1.3  
 
-2 --> Mayor release / New features will be added  
+2 --> Major release / New features will be added  
 1 --> Minor release / New features can be added  
 3 --> Patch release / Only bug fixes  
