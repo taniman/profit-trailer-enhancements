@@ -9,10 +9,11 @@ Here's your chance to see your feature request implemented.
 1. Create a Realistic/Bot Related Feature Requests on this project (TBD by DEV team)
 2. Requests that change the fundament of the bot are not allowed (TBD by DEV team)
 3. Only 1 feature can be requested per issue, anything else will be closed
-4. All created request need. Clear title, Description and Trading Benefit to PT
-5. Keep it positive and fun
-6. Only Feature Requests with 1337+ thumbs up Qualify
-7. Winners decided once a month
+4. Enhancements already in development or on a milestone will be closed
+5. All created request need. Clear title, Description and Trading Benefit to PT
+6. Keep it positive and fun
+7. Only Feature Requests with 1337+ thumbs up Qualify
+8. Winners decided once a month
 
 ### Top 3 Requests = guaranteed implementation in a features release
 
