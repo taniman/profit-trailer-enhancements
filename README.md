@@ -12,14 +12,14 @@ Here's your chance to see your feature request implemented.
 4. All created request need. Clear title, Description and Trading Benefit to PT
 5. Keep it positive and fun
 6. Only Feature Requests with 1337+ thumbs up Qualify
+7. Winners decided once a month
 
-### Top 3 Request = guaranteed implementation in a features release
+### Top 3 Requests = guaranteed implementation in a features release
 
 So make sure you search before creating a new issue, or you will be splintering your chances  
 
 # Not allowed
 * Backtesting - We do not have the data nor infrastructure required to build a proper back testing logic. (Anyone can provide the data?)
-* 
 
 # What is a new feature release
 PT Version Numbering starting with version 2.0  
