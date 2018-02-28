@@ -21,6 +21,7 @@ So make sure you search before creating a new issue, or you will be splintering 
 
 # Not allowed
 * Backtesting - We do not have the data nor infrastructure required to build a proper back testing logic. (Anyone can provide the data?)
+* Arbitrage - The bot is designed for trading
 
 # What is a new feature release
 PT Version Numbering starting with version 2.0  
