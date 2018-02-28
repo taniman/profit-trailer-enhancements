@@ -7,7 +7,7 @@ Here's your chance to see your feature request implemented.
 # Rules
 
 1. Create a Realistic/Bot Related Feature Requests on this project (TBD by DEV team)
-2. Requests that change the fundament of the bot are not allowed (TBD by DEV team)
+2. Requests that change the fundamentals of the bot are not allowed (TBD by DEV team)
 3. Only 1 feature can be requested per issue, anything else will be closed
 4. Enhancements already in development or on a milestone will be closed
 5. All created request need. Clear title, Description and Trading Benefit to PT
