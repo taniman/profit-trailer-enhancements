@@ -21,6 +21,9 @@ Here's your chance to see your feature request implemented.
 
 So make sure you search before creating a new issue, or you will be splintering your chances  
 
+# Price
+The creator of the most-liked request will receive: 1 year free subscription of a ProfitTrailer Windows or Linux VPS from LinkUpHost.
+
 # Not allowed
 * Backtesting - We do not have the data nor infrastructure required to build a proper back testing logic. (Anyone can provide the data?)
 * Arbitrage - The bot is designed for trading
