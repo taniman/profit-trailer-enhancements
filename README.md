@@ -17,7 +17,7 @@ Here's your chance to see your feature request implemented.
 7. Only Feature Requests with 1337+ thumbs up Qualify
 8. Winners decided once a month
 
-### Top 3 Requests = guaranteed implementation in a features release
+### Top 3 Qualifying Requests = guaranteed implementation in a features release
 
 So make sure you search before creating a new issue, or you will be splintering your chances  
 
