@@ -21,7 +21,7 @@ Here's your chance to see your feature request implemented.
 
 So make sure you search before creating a new issue, or you will be splintering your chances  
 
-# Price
+# Prize
 * The creator of the most-liked request will receive: 1 year free subscription of a ProfitTrailer Windows or Linux VPS from [LinkUpHost](https://linkuphost.com/clients/aff.php?aff=473).
 
 # Not allowed
