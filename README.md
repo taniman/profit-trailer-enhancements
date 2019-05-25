@@ -20,8 +20,10 @@ Here's your chance to see your feature request implemented.
 
 So make sure you search before creating a new issue, or you will be splintering your chances  
 
-# Prize
-* Lifetime Multi Exchane License
+# Prizes
+* 1st place - 600 reputation points (Exchangeable for a lifetime license for example)
+* 2nd place - 300 reptationn points
+* 3rd place - 150 reputation points
 
 # Not allowed
 * Backtesting - We do not have the data nor infrastructure required to build a proper back testing logic. (Anyone can provide the data?)
