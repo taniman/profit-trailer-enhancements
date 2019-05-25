@@ -14,7 +14,7 @@ Here's your chance to see your feature request implemented.
 4. Enhancements already in development or on a milestone will be closed
 5. All created request need. Clear title, Description and Trading Benefit to PT
 6. Keep it positive and fun
-7. Only Feature Requests with 1337+ thumbs up Qualify
+7. Only Feature Requests with 10+ thumbs up Qualify
 
 ### Top 3 Qualifying Requests = guaranteed implementation in a features release
 
