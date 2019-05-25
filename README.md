@@ -8,7 +8,7 @@ Here's your chance to see your feature request implemented.
 ## Before posting any request/issue make sure it has not been requested yet!
 
 # Where to add your request or give a thumbs up?
-https://github.com/taniman/profit-trailer-enhancements/issues
+[https://github.com/taniman/profit-trailer-enhancements/issues](https://github.com/taniman/profit-trailer-enhancements/issues)
 
 # Rules
 
