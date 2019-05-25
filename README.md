@@ -25,7 +25,7 @@ Here's your chance to see your feature request implemented.
 So make sure you search before creating a new issue, or you will be splintering your chances  
 
 # Prizes
-* 1st place - 600 reputation points (Exchangeable for a lifetime license for example)
+* 1st place - 600 reputation points
 * 2nd place - 300 reptationn points
 * 3rd place - 150 reputation points
 
