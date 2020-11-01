@@ -1,5 +1,4 @@
 # PT enhancements
-May the best enhancement win!  
 
 We know you want PT to be the best.  
 Here's your chance to see your feature implemented.
